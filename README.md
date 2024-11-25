@@ -1,2 +1,2 @@
 # JetPack-Repo
-repo for a WIP scratch package manager
+repo for a WIP turbowarp package manager
